@@ -20,7 +20,7 @@ const Footer = () => {
         <VStack w={"full"} alignItems={["center",'flex-start']}>
             <Text fontSize={"bold"}>About Us</Text>
             <Text fontSize={"sm"} letterSpacing={"widest"} textAlign={["center","left"]}>We are the best crypto information app in India, we provide 
-                 correct information without extra chareges. </Text>
+                 correct and live information without any charges. </Text>
         </VStack>
         <VStack>
             <Avatar src={img1} boxSize={"28"} mt={["4","0"]} />
