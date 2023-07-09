@@ -30,9 +30,9 @@ transition={{
         <Text
         fontSize={"4xl"}
         textAlign={"center"}
-        fontWeight={"thin"}
+        fontWeight={"semibold"}
         color={"whiteAlpha.900"}
-        mt={"-16"}
+        mt={"-18"}
         >
             Crypto Cave
         </Text>
